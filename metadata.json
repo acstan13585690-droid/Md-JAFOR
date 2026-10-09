@@ -1,0 +1,6 @@
+{
+  "name": "NovaAPK Marketplace",
+  "description": "Next-generation Android APK marketplace, developer distribution portal, and secure app review platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
